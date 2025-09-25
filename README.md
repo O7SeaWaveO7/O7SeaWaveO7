@@ -40,5 +40,6 @@ I'm passionate about the world of tech — currently interested in building web 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=O7SeaWaveO7&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=O7SeaWaveO7&show_icons=true&theme=radical&count_private=true)
+
 
