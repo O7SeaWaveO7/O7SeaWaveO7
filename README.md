@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Joshua (He/Him)
 
-<!--
-**O7SeaWaveO7/O7SeaWaveO7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about the world of tech — currently interested in building web apps, and equally excited about IT and hardware.  
 
-Here are some ideas to get you started:
+💻 I'm in my **second semester** of Computer Science, where I'm learning:  
+- Kotlin  
+- Game Development  
+- EF Core & LINQ  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Currently, I'm working on an **app to alleviate doomscrolling**.  
+
+🍜 Outside of tech, I love **ramen** and **KBBQ**!
+
+
+---
+
+## 🚀 About Me
+- 🔭 Exploring software development, IT systems, and hardware tinkering  
+- 🎮 Building games and experimenting with interactive apps  
+- 📚 Always looking to push myself, learn, and grow in the tech world  
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Kotlin, C#, JavaScript, SQL  
+- **Frameworks & Tools:** EF Core, LINQ, React, Android Studio, VS Code  
+- **Other Interests:** IT Support, Hardware, E-commerce, Branding  
+
+---
+
+## 🌟 Current Projects
+- **📱 Kaiho Focus App** → A mobile app to reduce doomscrolling and help people stay productive  
+- **👕 Kaiho Streetwear Brand** → Japanese-inspired designs blending self-growth and fashion
+  
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/joshua-caunin-514b462b3/)
+- [Email](j.caunin0204@gmail.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaCaunin&show_icons=true&theme=radical)
